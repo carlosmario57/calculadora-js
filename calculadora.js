@@ -82,4 +82,3 @@ while (operacion != "salir") {
         break;
     }
 }
-af56033f85d1c5ec930cb1f1ef9679026d501924
